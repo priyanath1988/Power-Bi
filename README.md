@@ -1,2 +1,2 @@
-# Power-Bi work order analysis
+# Power-Bi
 Collection of Power BI dashboards
